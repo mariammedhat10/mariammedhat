@@ -6,7 +6,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: (),
       body: Center(child: Text("Welcom in home page"),),
     );
   }
